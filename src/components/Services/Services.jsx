@@ -28,7 +28,7 @@ const skillsData = [
       <SlNote className="text-5xl text-primary group-hover:text-black duration-500" />
     ),
     link: "#",
-    description: "we offer a team of experienced, professional drivers. Each driver undergoes thorough background checks and rigorous training to ensure they’re not only skilled on the road but also courteous and knowledgeable about local areas. Their experience allows for a smoother, safer journey, while their local expertise means they can recommend the best routes, attractions, and stops along the way. With our drivers, you’re in expert hands from start to finish.",
+    description: "We offer a team of experienced, professional drivers. Each driver undergoes thorough background checks and rigorous training to ensure they’re not only skilled on the road but also courteous and knowledgeable about local areas. Their experience allows for a smoother, safer journey, while their local expertise means they can recommend the best routes, attractions, and stops along the way. With our drivers, you’re in expert hands from start to finish.",
     aosDelay: "1000",
   },
 ];
