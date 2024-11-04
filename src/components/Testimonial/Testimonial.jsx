@@ -2,21 +2,21 @@ import React from "react";
 
 const testimonialData = [
   {
-    name: "Dilshad",
+    name: "Bikram",
     image: "",
-    description: "Lorem ipsum dolor sit amet consectetur, adipisicing elit.",
+    description: "DriveOn offers a great variety of cars and convenience of pick-up and drop-off is unbeatable.I always recommend them to my friends for visiting the city.",
     aosDelay: "0",
   },
   {
-    name: "Satya",
+    name: "Deba",
     image: "",
-    description: "Lorem ipsum dolor sit amet consectetur, adipisicing elit.",
+    description: "The cars were well maintained and were in top condition and the process was quick and easy. Looking forward to renting from them again.",
     aosDelay: "300",
   },
   {
-    name: "Sabir",
+    name: "Arup",
     image: "",
-    description: "Lorem ipsum dolor sit amet consectetur, adipisicing elit.",
+    description: "I have rented cars from DriveOn few times and every experience has been excellent. Their customer service is always friendly and the prices are great!",
     aosDelay: "1000",
   },
 ];
@@ -33,11 +33,7 @@ const Testimonial = () => {
               className="text-3xl font-semibold text-center sm:text-4xl font-serif"
             >
               What Our Clients Say About Us
-            </p>
-            <p data-aos="fade-up" className="text-center sm:px-44">
-              Lorem ipsum dolor sit amet consectetur adipisicing elit.
-              Perferendis iure consectetur tempora amet.
-            </p>
+            </p>  
           </div>
 
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4 text-black dark:text-white">
