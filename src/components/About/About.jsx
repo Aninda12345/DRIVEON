@@ -22,8 +22,7 @@ const About = () => {
                 About us
               </h1>
               <p data-aos="fade-up" className="leading-8 tracking-wide">
-                Lorem, ipsum dolor sit amet consectetur adipisicing elit.
-                Aspernatur, magnam! Tenetur odio quo et maxime?
+              DriveOn is a modern car rental platform created to make vehicle rentals simple, fast, and convenient. Whether you’re planning a weekend getaway, a business trip, or need a car for everyday errands, DriveOn offers a wide selection of vehicles to suit your needs. Our easy-to-use interface allows you to browse available cars, compare prices, and book in just a few clicks. With transparent pricing, flexible booking options, and reliable customer support, DriveOn aims to redefine the car rental experience. Get on the road with DriveOn—where your journey begins with ease.
               </p>
               <p data-aos="fade-up">
                 Lorem ipsum dolor sit amet consectetur adipisicing elit. Sequi,
